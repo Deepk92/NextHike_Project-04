@@ -14,6 +14,12 @@ Steps and Methods involved in the Project :
 7) Report, Visualization and Recommendations :- Created a comprehensive report or presentation that summarizes the project's findings. Include visualizations and insights about feature importance and their impact on price prediction.
 
 
+Project Conclusion :-
+The model's reliance on PC1 more than PC2 aligns with the nature of PCA, where the first few components are designed to capture the most variance. Both the components are used (with significant weights) indicates that the feature extraction phase was successful in identifying meaningful patterns in the data. The dominance of PC1 suggests that most information relevant for predicting the mobile phone prices is encapsulated in this single component. However, with an average importance of approximately 0.21 (21 %), PC2 also plays a significant role in predictions.
+
+Memory Size (RAM and Storage) : High positive loading in PC1. It means that Phone with more Memory and Storage tends to be priced higher and are important for performance-focused consumers.
+
+
 
 
 
