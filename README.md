@@ -13,6 +13,9 @@ Steps and Methods involved in the Project :
 6) Dashboard Creation Using Tableau :- Created a Dynamic Dashboard including multiple sheets with a minimum of 6-7 important data visualization charts to showcase the project requirement.
 7) Report, Visualization and Recommendations :- Created a comprehensive report or presentation that summarizes the project's findings. Include visualizations and insights about feature importance and their impact on price prediction.
 
+Python Libraries Used - Data science libraries such as Numpy, Pandas, Matplotlib, Seaborn and Machine learning libraries such as scikit-learn (for Python) for building and evaluating the predictive model in the Jupyter Notebook Environment.
+
+
 
 Project Conclusion :-
 The model's reliance on PC1 more than PC2 aligns with the nature of PCA, where the first few components are designed to capture the most variance. Both the components are used (with significant weights) indicates that the feature extraction phase was successful in identifying meaningful patterns in the data. The dominance of PC1 suggests that most information relevant for predicting the mobile phone prices is encapsulated in this single component. However, with an average importance of approximately 0.21 (21 %), PC2 also plays a significant role in predictions.
