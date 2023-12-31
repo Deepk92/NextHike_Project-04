@@ -13,7 +13,7 @@ Steps and Methods involved in the Project :
 6) Dashboard Creation Using Tableau :- Created a Dynamic Dashboard including multiple sheets with a minimum of 6-7 important data visualization charts to showcase the project requirement.
 7) Report, Visualization and Recommendations :- Created a comprehensive report or presentation that summarizes the project's findings. Include visualizations and insights about feature importance and their impact on price prediction.
 
-Python Libraries Used - Data science libraries such as Numpy, Pandas, Matplotlib, Seaborn and Machine learning libraries such as scikit-learn (for Python) for building and evaluating the predictive model in the Jupyter Notebook Environment.
+Python Libraries Used - Data science libraries such as Numpy, Pandas, Matplotlib, Seaborn and Machine learning libraries such as Scikit-learn (for Python) for building and evaluating the predictive model in the Jupyter Notebook Environment.
 
 
 
