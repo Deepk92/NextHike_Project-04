@@ -11,7 +11,7 @@ Steps and Methods involved in the Project :
 4) Model Building and Evaluation :- Splitted the dataset into training and testing sets and Developed a machine learning model for price prediction using various algorithms such as Linear Regression, Decision tree, Random forest and Gradient Boosting and evaluated the performance matrics such as mean absolute error, root mean squared error, R2 score.
 5) Feature Importance Analysis :-  Analyzed the feature importances obtained from the model to confirm the significance of the features identified during the feature extraction phase.
 6) Dashboard Creation Using Tableau :- Created a Dynamic Dashboard including multiple sheets with a minimum of 6-7 important data visualization charts to showcase the project requirement.
-7) Report, Visualization and Recommendations :- Created a comprehensive report or presentation that summarizes the project's findings. Include visualizations and insights about feature importance and their impact on price prediction.
+7) Report, Visualization and Recommendations :- Created a comprehensive report and presentation that summarizes the project's findings. Include visualizations and insights about feature importance and their impact on price prediction.
 
 Python Libraries Used - Data science libraries such as Numpy, Pandas, Matplotlib, Seaborn and Machine learning libraries such as Scikit-learn (for Python) for building and evaluating the predictive model in the Jupyter Notebook Environment.
 
